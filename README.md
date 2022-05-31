@@ -1,4 +1,4 @@
-### Happy Every Day ✨😄✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Happy Every Day ✨😄✨&color=#acacac)](https://git.io/typing-svg)
 
 <!--
 **GaoFuq/GaoFuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaoFuq&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFuq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
